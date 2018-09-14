@@ -106,7 +106,6 @@ int main()
         cin >> s ;
         insert(root,s);
     }
-    cout << "boob\n";
     FOR(i,y)
     {
         cin >> s;
